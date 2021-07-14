@@ -1,0 +1,39 @@
+.header{
+    background: rgb(192, 185, 185);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .button{
+      background-color: rgb(206, 195, 195);
+    
+  }
+  .table-bordered{
+      border: black;
+  }
+
+
+  input{
+      margin-left: 5rem;
+      
+  }
+
+  /* Container Border for input-edit*/
+.con-border {
+    border: 2px solid #0a0a0a;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+
+
+    select {
+        width: 200px;
+        height: 2rem;
+        margin-left: 5rem;
+    }
+    select:focus {
+        min-width: 200px;
+        width: auto;
+        height: 2rem;
+    }
